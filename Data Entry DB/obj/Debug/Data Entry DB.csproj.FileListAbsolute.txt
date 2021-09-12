@@ -1,0 +1,10 @@
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\bin\Debug\Data Entry DB.exe.config
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\bin\Debug\Data Entry DB.exe
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\bin\Debug\Data Entry DB.pdb
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data Entry DB.csproj.AssemblyReference.cache
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data_Entry_DB.Form1.resources
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data_Entry_DB.Properties.Resources.resources
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data Entry DB.csproj.GenerateResource.cache
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data Entry DB.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data Entry DB.exe
+C:\Users\Yasiru Tishan\Desktop\Data Entry DB\obj\Debug\Data Entry DB.pdb
